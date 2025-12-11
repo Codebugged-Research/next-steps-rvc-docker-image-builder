@@ -6,5 +6,5 @@ https://huggingface.co/lj1995/VoiceConversionWebUI/resolve/main/hubert_base.pt
 
 Unzip it and put all files in model folder.
 
-Build Docker image , run it and start dashboard from on other port.
+Build Docker image , run it and start dashboard on other port.
 
